@@ -25,6 +25,7 @@ h1{
 .credits{
     color: rgba(0,0,0,0.5);
 }
+
 #author{
     font-size: 20px;
 }
@@ -33,7 +34,6 @@ h1{
 }
 .photo{
     font-size: 8px;
-    color: rgba(0,0,0,0.5);
 }
 .mark{
     background-color: yellow;
@@ -48,13 +48,14 @@ ul{
 }
 thead{
     text-align: left;
-    background-color: aqua;
+    background-color: rgb(17, 156, 180);
+    color: white;
 }
 .column{
     width: 24%;
 }
 .row{
-    background-color: aquamarine;
+    background-color: lightblue;
 }
 #correlated{
     font-weight: 700;
