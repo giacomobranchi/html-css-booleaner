@@ -2,9 +2,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-body{
-    font-weight: 600;
-}
+
 header{
     position: relative;
     background-color: rgb(65, 154, 189);
@@ -35,4 +33,11 @@ span{
 .photo{
     font-size: 8px;
     color: rgba(0,0,0,0.5);
+}
+#mark{
+    background-color: yellow;
+    color: black;
+}
+p{
+    padding-bottom: 20px;
 }
