@@ -9,7 +9,7 @@ header{
     background-color: rgb(65, 154, 189);
     height: 80px;
     background-image: url(pattern.png);
-    background-size: contain;
+    background-size: 40%;
 }
 h1{
     font-size: 40px;
