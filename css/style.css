@@ -46,6 +46,9 @@ ul{
     padding-bottom: 20px;
     padding-left: 30px;
 }
+table{
+    border-spacing: 0;
+}
 thead{
     text-align: left;
     background-color: rgb(17, 156, 180);
