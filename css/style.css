@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -18,7 +19,7 @@ h1{
     bottom: 0px; left: 0px;
     height: 40px;
 }
-span{
+#booleaner{
     color: rgb(2, 190, 190);
 }
 .credits{
@@ -34,10 +35,24 @@ span{
     font-size: 8px;
     color: rgba(0,0,0,0.5);
 }
-#mark{
+.mark{
     background-color: yellow;
     color: black;
 }
 p{
     padding-bottom: 20px;
+}
+ul{
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
+thead{
+    text-align: left;
+    background-color: aqua;
+}
+.column{
+    width: 24%;
+}
+.row{
+    background-color: aquamarine;
 }
