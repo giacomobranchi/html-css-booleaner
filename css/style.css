@@ -2,15 +2,37 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    font-weight: 600;
+}
 header{
     position: relative;
     background-color: rgb(65, 154, 189);
-    height: 100px;
+    height: 80px;
     background-image: url(pattern.png);
     background-size: contain;
+}
+h1{
+    font-size: 40px;
 }
 #logo{
     position: absolute;
     bottom: 0px; left: 0px;
     height: 40px;
+}
+span{
+    color: rgb(2, 190, 190);
+}
+.credits{
+    color: rgba(0,0,0,0.5);
+}
+#author{
+    font-size: 20px;
+}
+#date{
+    font-size: 10px;
+}
+.photo{
+    font-size: 8px;
+    color: rgba(0,0,0,0.5);
 }
